@@ -25,7 +25,7 @@ public class RussMult01 {
                     result = num2;
                     sum += result;
                     if(num1 <= 1) {
-                        str += result + "=";
+                        str += result + " = ";
                     }
                     else {
                         str += result + "+";
